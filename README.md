@@ -36,4 +36,3 @@ Também é possível usar argumentos:
 python cliente_rest/rest_client.py --base-url "http://HOST:PORTA" --team C01
 ```
 
-Os testes R1–R5 seguem o contrato fornecido pelo professor.
